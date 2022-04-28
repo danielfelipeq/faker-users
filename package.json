@@ -1,0 +1,23 @@
+{
+  "name": "faker-users",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielfelipeq/faker-users.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielfelipeq/faker-users/issues"
+  },
+  "homepage": "https://github.com/danielfelipeq/faker-users#readme",
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}

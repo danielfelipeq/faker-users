@@ -1,0 +1,12 @@
+[
+	"Nina Metz",
+	"Gisselle Schaefer",
+	"Marjory Hickle",
+	"Frieda Schaden",
+	"Harmony Fay",
+	"Bryana D'Amore",
+	"Jodie Bernhard",
+	"Russ Thiel",
+	"Freddie Brown",
+	"Pablo Blick"
+]
